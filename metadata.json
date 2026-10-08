@@ -1,0 +1,6 @@
+{
+  "name": "Shark Arena - AI Investor Panel",
+  "description": "Multi-Agent AI Investor Panel simulating Aman, Namita, and Peyush in a live startup pitch arena with unit economics, tech moats, and cross-debates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
